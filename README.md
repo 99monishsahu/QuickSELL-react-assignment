@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I am Vaibhav Kumar Tiwari, a Bachelor of Technology student majoring in Electronics and Communication Engineering at the prestigious Indian Institute of Technology Dhanbad. Alongside my studies, I excel as a full-stack web developer and possess a keen interest in competitive programming.
+I am Monish Kumar Sahu, a Master of Technology student with specialization in Information Technology at the prestigious Delhi Technological University. Alongside my studies, I excel as a full-stack web developer and possess a keen interest in competitive programming.
 
 
 ## Tech Stack
@@ -14,13 +14,15 @@ I am Vaibhav Kumar Tiwari, a Bachelor of Technology student majoring in Electron
 
 **Server:** https://api.quicksell.co/v1/internal/frontend-assignment
 
+**Website:** quicksell.dtumonish.in
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/imvktiwari/Quicksell_Frontend_Assignment
+  git clone https://github.com/99monishsahu/QuickSELL-react-assignment.git
 ```
 
 Install dependencies
@@ -37,4 +39,4 @@ Start the client
 
 ## Feedback
 
-If you have any feedback, please reach out to me at 21je1017@iitism.ac.in
+If you have any feedback, please reach out to me at monish_2k22isy09@dtu.ac.in
